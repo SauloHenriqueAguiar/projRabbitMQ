@@ -1,0 +1,2 @@
+# projRabbitMQ
+Projeto com RabbitMQ
